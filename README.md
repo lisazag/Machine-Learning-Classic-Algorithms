@@ -1,2 +1,2 @@
-# Portfolio
-My last completed projects made through my learning journey.
+# Машинное обучение — классические алгоритмы
+Здесь представлены мои работы, которые я выполняла во время изучения ML
